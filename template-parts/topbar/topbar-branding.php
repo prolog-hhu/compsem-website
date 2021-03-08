@@ -15,14 +15,14 @@
 
      <svg class="mr-2 lh-0" width="48" height="48" viewBox="0 0 48 48" aria-hidden="true" version="1.1">
         <path d="M31.33,15.522c-1.049,7.594 -7.066,13.611 -14.66,14.66c1.049,-7.594 7.066,-13.611 14.66,-14.66Z"
-            style="fill:#2188ff;fill-rule:nonzero;" />
+            style="fill:#ff6702;fill-rule:nonzero;" />
         <path d="M34.367,40.607c-6.112,4.628 -14.622,4.628 -20.734,0c6.112,-4.628 14.622,-4.628 20.734,0Z"
-            style="fill:#2188ff;fill-rule:nonzero;" />
-        <circle cx="24" cy="22.852" r="5.564" style="fill:#2188ff;" />
-        <circle cx="24" cy="22.852" r="15.495" style="fill:none;stroke:#2188ff;stroke-width:5.4px;" />
+            style="fill:#ff6702;fill-rule:nonzero;" />
+        <circle cx="24" cy="22.852" r="5.564" style="fill:#ff6702;" />
+        <circle cx="24" cy="22.852" r="15.495" style="fill:none;stroke:#ff6702;stroke-width:5.4px;" />
      </svg>
 
-     <span class="f4 text-bold hide-sm" style="color:#2188ff;">
+     <span class="f4 text-bold hide-sm" style="color:#ff6702;">
          <?php echo get_bloginfo('name'); ?>
      </span>
 
