@@ -14,12 +14,9 @@
      title="<?php echo get_bloginfo('description'); ?>">
 
      <svg class="mr-2 lh-0" width="48" height="48" viewBox="0 0 48 48" aria-hidden="true" version="1.1">
-        <path d="M31.33,15.522c-1.049,7.594 -7.066,13.611 -14.66,14.66c1.049,-7.594 7.066,-13.611 14.66,-14.66Z"
-            style="fill:#ff6702;fill-rule:nonzero;" />
-        <path d="M34.367,40.607c-6.112,4.628 -14.622,4.628 -20.734,0c6.112,-4.628 14.622,-4.628 20.734,0Z"
-            style="fill:#ff6702;fill-rule:nonzero;" />
-        <circle cx="24" cy="22.852" r="5.564" style="fill:#ff6702;" />
-        <circle cx="24" cy="22.852" r="15.495" style="fill:none;stroke:#ff6702;stroke-width:5.4px;" />
+        <g transform="matrix(0.191001,0,0,0.191001,6.68072,6.03045)">
+            <path d="M47.243,12.929L47.243,38.837L68.579,38.837L77.342,65.888L12.192,166.851L44.195,166.851L90.677,98.272L121.156,175.233L169.161,159.993L161.541,136.371L139.444,143.229L87.629,12.929L47.243,12.929Z" style="fill:#ff6702;"/>
+        </g>
      </svg>
 
      <span class="f4 text-bold hide-sm" style="color:#ff6702;">
