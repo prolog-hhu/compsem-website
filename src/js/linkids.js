@@ -7,10 +7,9 @@ class LinkIDs {
 
     constructor() {
 
-        this.isSingle = document.body.classList.contains('single-wiki');
-        this.isTaskOverview = document.body.classList.contains('aufgaben');
+        this.isSingle = document.body.classList.contains('single');
 
-        if (this.isSingle === true || this.isTaskOverview == true) {
+        if (this.isSingle === true) {
 
             let items = document.querySelectorAll("h1, h2, h3");
 
@@ -22,4 +21,4 @@ class LinkIDs {
     }
 }
 
-let myLinkIDs = new LinkIDs();
+new LinkIDs();

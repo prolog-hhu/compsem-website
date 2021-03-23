@@ -5,3 +5,4 @@ import "./js/collapse";
 
 import "./js/Quiz/";
 import "./js/tasks";
+import "./js/floatnav";
