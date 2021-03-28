@@ -52,7 +52,7 @@ function kapitel_init()
         'menu_position'      => 20,
         'menu_icon'          => 'dashicons-welcome-learn-more',
         'show_in_rest' 	     => true,
-        'supports'           => array( 'title', 'editor', 'author', 'excerpt' )
+        'supports'           => array( 'title', 'editor', 'author', 'excerpt', 'comments' )
     );
 
     register_post_type('kapitel', $args);
