@@ -37,7 +37,5 @@ export default function (content) {
 
     id = id.replace(/\’/g, ''); // ’
 
-    console.log(id);
-
     return id;
 }
