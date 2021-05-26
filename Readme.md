@@ -39,6 +39,3 @@ npm build
 - Presspack by Jared Palmer: https://github.com/jaredpalmer/presspack
 - Primer CSS by Github: https://github.com/primer/css
 - Tau Prolog by José Antonio Riaza Valverde: https://github.com/tau-prolog/tau-prolog
-
-
-Hallo i bims Mari
